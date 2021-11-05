@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/curtis-turner/goop/ics"
+	"github.com/curtis-turner/ics"
 )
 
 func main() {
